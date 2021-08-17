@@ -1,0 +1,42 @@
+[
+  {
+    "customer_name": "Sean Miller",
+    "SUM(sales)": 25043.05
+  },
+  {
+    "customer_name": "Tamara Chand",
+    "SUM(sales)": 19052.218
+  },
+  {
+    "customer_name": "Raymond Buch",
+    "SUM(sales)": 15117.338999999998
+  },
+  {
+    "customer_name": "Tom Ashbrook",
+    "SUM(sales)": 14595.62
+  },
+  {
+    "customer_name": "Adrian Barton",
+    "SUM(sales)": 14473.571
+  },
+  {
+    "customer_name": "Ken Lonsdale",
+    "SUM(sales)": 14175.229
+  },
+  {
+    "customer_name": "Sanjit Chand",
+    "SUM(sales)": 14142.334000000004
+  },
+  {
+    "customer_name": "Hunter Lopez",
+    "SUM(sales)": 12873.298
+  },
+  {
+    "customer_name": "Sanjit Engle",
+    "SUM(sales)": 12209.438
+  },
+  {
+    "customer_name": "Christopher Conant",
+    "SUM(sales)": 12129.072
+  }
+]
